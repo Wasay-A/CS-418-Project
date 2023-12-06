@@ -13,13 +13,11 @@ The website has three main parts: "Dashboard", "Charts", and "Tables"
 - The "Tables" section shows multiple Machine Learning analysis and classification reports.
 
 
-Screenshots of website:
+Some screenshots of website:
 
 Dashboard
 <img width="1440" alt="Screenshot 2023-12-05 at 6 49 07 PM" src="https://github.com/Wasay-A/CS-418-Project/assets/98603984/215d4ccd-4070-4955-9339-1f2f767dd941">
-Next
 <img width="1440" alt="Screenshot 2023-12-05 at 6 49 35 PM" src="https://github.com/Wasay-A/CS-418-Project/assets/98603984/edac3a5e-98e0-4bd1-ab7d-92b7ac6903ea">
-Next
 <img width="1440" alt="Screenshot 2023-12-05 at 6 49 48 PM" src="https://github.com/Wasay-A/CS-418-Project/assets/98603984/23f40175-5246-4684-a7eb-07d5778453d3">
 
 
