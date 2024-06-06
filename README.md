@@ -1,4 +1,4 @@
-How to access the website:
+<b>How to access the website:</b>
 - Open the "418_proj_website.zip" file
 - Open "418_pages" folder
 - Open "index.html" file in Visual Studio Code
