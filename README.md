@@ -6,7 +6,7 @@
 - Choose browser to open the website in
 
   
-<b>About the website:</b><br>
+<b>About the website:</b><br><br>
 The website has three main parts: "Dashboard", "Charts", and "Tables"
 - The "Dashboard" section has various information regarding the data, graphs, and allows the user to view the dataset.
 - The "Charts" section has multiple visuals and an explanation for each visual.
